@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\cia\\Documents\\SharingData\\MengenalBuah\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\cia\\Documents\\SharingData\\MengenalBuah\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Wahyu Novriyanto\\AndroidStudioProjects\\AplikasiMengenalBuah\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Wahyu Novriyanto\\AndroidStudioProjects\\AplikasiMengenalBuah\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
